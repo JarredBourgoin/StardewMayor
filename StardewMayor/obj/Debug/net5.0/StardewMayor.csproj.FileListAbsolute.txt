@@ -1,0 +1,10 @@
+C:\Users\jarre\source\repos\StardewMayor\StardewMayor\bin\Debug\net5.0\StardewMayor.deps.json
+C:\Users\jarre\source\repos\StardewMayor\StardewMayor\bin\Debug\net5.0\StardewMayor.dll
+C:\Users\jarre\source\repos\StardewMayor\StardewMayor\bin\Debug\net5.0\StardewMayor.pdb
+C:\Users\jarre\source\repos\StardewMayor\StardewMayor\obj\Debug\net5.0\StardewMayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarre\source\repos\StardewMayor\StardewMayor\obj\Debug\net5.0\StardewMayor.AssemblyInfoInputs.cache
+C:\Users\jarre\source\repos\StardewMayor\StardewMayor\obj\Debug\net5.0\StardewMayor.AssemblyInfo.cs
+C:\Users\jarre\source\repos\StardewMayor\StardewMayor\obj\Debug\net5.0\StardewMayor.csproj.CoreCompileInputs.cache
+C:\Users\jarre\source\repos\StardewMayor\StardewMayor\obj\Debug\net5.0\StardewMayor.dll
+C:\Users\jarre\source\repos\StardewMayor\StardewMayor\obj\Debug\net5.0\StardewMayor.pdb
+C:\Users\jarre\source\repos\StardewMayor\StardewMayor\obj\Debug\net5.0\StardewMayor.csproj.AssemblyReference.cache

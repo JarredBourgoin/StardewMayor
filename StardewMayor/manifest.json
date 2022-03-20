@@ -1,0 +1,10 @@
+{
+  "Name": "Stardew Mayor",
+  "Author": "Renard",
+  "Version": "1.0.0",
+  "Description": "Mayor Lewis doesn't deserve the position... run for office yourself!",
+  "UniqueID": "Rendard.StardewMayor",
+  "EntryDll": "StardewMayor.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "GitHub:JarredBourgoin/StardewMayor" ]
+}
